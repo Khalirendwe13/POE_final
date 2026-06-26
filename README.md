@@ -86,3 +86,4 @@ Chat commands you can try:
 - [ ] 6+ Git commits
 - [ ] 3+ release tags
 - [ ] 8–10 min unlisted YouTube video with voice-over
+- [ ] 
